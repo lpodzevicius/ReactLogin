@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loreact/static/css/main.bd6487f8.css",
-    "main.js": "/loreact/static/js/main.21fbbe57.js",
-    "static/js/787.d3befce1.chunk.js": "/loreact/static/js/787.d3befce1.chunk.js",
-    "index.html": "/loreact/index.html",
-    "main.bd6487f8.css.map": "/loreact/static/css/main.bd6487f8.css.map",
-    "main.21fbbe57.js.map": "/loreact/static/js/main.21fbbe57.js.map",
-    "787.d3befce1.chunk.js.map": "/loreact/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/my-project/static/css/main.bd6487f8.css",
+    "main.js": "/my-project/static/js/main.16a8fc03.js",
+    "static/js/787.d3befce1.chunk.js": "/my-project/static/js/787.d3befce1.chunk.js",
+    "index.html": "/my-project/index.html",
+    "main.bd6487f8.css.map": "/my-project/static/css/main.bd6487f8.css.map",
+    "main.16a8fc03.js.map": "/my-project/static/js/main.16a8fc03.js.map",
+    "787.d3befce1.chunk.js.map": "/my-project/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd6487f8.css",
-    "static/js/main.21fbbe57.js"
+    "static/js/main.16a8fc03.js"
   ]
 }
